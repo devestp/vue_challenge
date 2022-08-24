@@ -1,0 +1,3 @@
+[submodule "coursly_dash"]
+	path = coursly_dash
+	url = https://github.com/devestp/coursly_dash.git
